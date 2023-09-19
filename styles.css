@@ -38,7 +38,7 @@ button{
     max-width: 500px;
     margin-inline: auto;
     margin-top: 50px;
-    border-radius: 2%;
+    border-radius: 5px;
     font-size: 40px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
