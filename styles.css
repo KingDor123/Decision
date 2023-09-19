@@ -34,7 +34,6 @@ button{
 }
 .answer{
     padding: 50px 20px;
-    background:url(dice.gif);
     max-width: 500px;
     margin-inline: auto;
     margin-top: 50px;
@@ -42,6 +41,11 @@ button{
     font-size: 40px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+}
+.animetion{
+    padding: 50px 20px;
+    background:url(dice.gif);
+    background-size: 100px;
 }
 .clear{
     display: block;
